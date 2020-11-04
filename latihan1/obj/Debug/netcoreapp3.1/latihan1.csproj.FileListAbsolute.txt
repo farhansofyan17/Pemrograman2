@@ -1,0 +1,4 @@
+C:\Users\LENOVO\netapp\latihan1\obj\Debug\netcoreapp3.1\latihan1.csprojAssemblyReference.cache
+C:\Users\LENOVO\netapp\latihan1\obj\Debug\netcoreapp3.1\latihan1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\netapp\latihan1\obj\Debug\netcoreapp3.1\latihan1.AssemblyInfo.cs
+C:\Users\LENOVO\netapp\latihan1\obj\Debug\netcoreapp3.1\latihan1.csproj.CoreCompileInputs.cache
